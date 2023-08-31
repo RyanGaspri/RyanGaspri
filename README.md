@@ -7,7 +7,7 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaspri&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-### Tecnologias que utilizo em dia a dia:
+### Tecnologias que utilizo:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
