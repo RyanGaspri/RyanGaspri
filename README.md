@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Ryan Gaspri 🖐️
+### Olá ! Eu sou o Ryan 🖐️
 Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec Irmã Agostina. Atualmente estou me aprofundando em desenvolvimento Mobile.
 
 [![Contatos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-gaspri-92a240212) 
