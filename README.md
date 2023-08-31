@@ -20,3 +20,5 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 
 </div>
 
+Apaixonado por tecnologia desde criança no qual influenciou fortemente em minha escolha profissional
+
