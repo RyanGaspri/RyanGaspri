@@ -18,7 +18,7 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 <img align="center" alt="Intelij" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img align="center" alt="Intelij" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
 
-</div>
+</div><br/>
 <br/>
 Apaixonado por tecnologia desde criança e isso resultou fortemente na minha escolha profissional com o fóco em desenvolver aplicativos Mobile.
 
