@@ -20,5 +20,5 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 
 </div><br/>
 <br/>
-Apaixonado por tecnologia desde criança e isso resultou fortemente na minha escolha profissional com o fóco em desenvolver aplicativos Mobile.
+Apaixonado por tecnologia desde criança e isso influenciou fortemente na minha escolha profissional com o fóco em desenvolver aplicativos Mobile.
 
