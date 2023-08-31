@@ -4,6 +4,8 @@
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyDev&show_icons=true&theme=onedark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaspri&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 ### Tecnologias que utilizo:
 
 <div style="display: inline_block"><br/>
@@ -13,6 +15,7 @@
 <img align="center" alt="Intelij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img align="center" alt="Intelij" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img align="center" alt="Intelij" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="center" alt="Intelij" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
 
 </div>
 
