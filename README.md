@@ -3,11 +3,17 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 
 [![Contatos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-gaspri-92a240212) 
 
+### Minhas estatisticas 🚀
+<hr>
+
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyDev&show_icons=true&theme=onedark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaspri&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ### Tecnologias que utilizo:
+<hr>
+
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -20,5 +26,5 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 
 </div><br/>
 <br/>
-Apaixonado por tecnologia desde criança e isso influenciou fortemente na minha escolha profissional com o fóco em desenvolver aplicativos Mobile.
+Apaixonado por tecnologia desde criança e isso influenciou fortemente na minha escolha profissional com o fóco em desenvolver aplicativos Mobile. No meu tempo livre eu gosto de ler, ouvir musica, jogar e assister conteudos relacionados a area tech 👾.
 
