@@ -19,6 +19,6 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 <img align="center" alt="Intelij" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"/>
 
 </div>
-
+<br/>
 Apaixonado por tecnologia desde criança e resultou fortemente na minha escolha profissional com o fóco em desenvolver aplicativos Mobile.
 
