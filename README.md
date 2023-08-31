@@ -1,5 +1,5 @@
 ### Olá ! Eu sou o Ryan Gaspri 🖐️
-Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec Irmã Agostina. Atualmente estou me aprofundando em desenvolvimento Mobile
+Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec Irmã Agostina. Atualmente estou me aprofundando em desenvolvimento Mobile.
 
 [![Contatos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ryan-gaspri-92a240212)
 
@@ -7,7 +7,7 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaspri&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-### Tecnologias que utilizo:
+### Tecnologias que utilizo em dia a dia:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
