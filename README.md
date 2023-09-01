@@ -6,7 +6,7 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 ### Minhas estatisticas 🚀
 <hr>
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyDev&show_icons=true&theme=onedark)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGaspr&show_icons=true&theme=onedark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGaspri&exclude_repo=github-readme-stats,anuraghazra.github.io)
