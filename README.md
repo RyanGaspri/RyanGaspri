@@ -3,8 +3,10 @@ Tenho 19 anos, sou formado em Técnico em desenvolvimentos de sistemas pela Etec
 
 ### 😁 Entre em contato comigo: [![Contatos](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ryan-gaspri-92a240212) 
 
-### Minhas estatisticas 🚀
 <hr>
+
+### Minhas habilidades 🚀
+
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGaspri&show_icons=true&theme=onedark)
 
