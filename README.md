@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ryan 🖐️
 
-Sou **Desenvolvedor Full Stack**. Sou graduado em Análise e Desenvolvimento de Sistemas (ADS) pelo Senac e atuo no desenvolvimento de soluções robustas, desde sistemas industriais complexos (MES) até sites institucionais e landing pages de alta conversão.
+Sou **Desenvolvedor Full Stack**. Sou graduado em Análise e Desenvolvimento de Sistemas (ADS) pelo Senac e atuo no desenvolvimento de soluções robustas, desde sistemas industriais complexos (MES), CRMS até sites institucionais e landing pages de alta conversão.
 
 Atualmente, meu foco está em construir aplicações escaláveis utilizando o ecossistema .NET, otimização de bancos de dados relacionais e arquitetura em nuvem.
 
